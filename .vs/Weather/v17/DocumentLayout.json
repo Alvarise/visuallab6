@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\holy c\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722E2FEE-EFE3-411C-B559-901C42A9F276}|Weather.csproj|d:\\holy c\\weather\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{722E2FEE-EFE3-411C-B559-901C42A9F276}|Weather.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722E2FEE-EFE3-411C-B559-901C42A9F276}|Weather.csproj|d:\\holy c\\weather\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722E2FEE-EFE3-411C-B559-901C42A9F276}|Weather.csproj|solutionrelative:weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722E2FEE-EFE3-411C-B559-901C42A9F276}|Weather.csproj|d:\\holy c\\weather\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722E2FEE-EFE3-411C-B559-901C42A9F276}|Weather.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "D:\\holy c\\Weather\\Weather.cs",
+              "RelativeDocumentMoniker": "Weather.cs",
+              "ToolTip": "D:\\holy c\\Weather\\Weather.cs",
+              "RelativeToolTip": "Weather.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAYwNUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:57:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\holy c\\Weather\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "D:\\holy c\\Weather\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T07:53:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "D:\\holy c\\Weather\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "D:\\holy c\\Weather\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:53:21.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

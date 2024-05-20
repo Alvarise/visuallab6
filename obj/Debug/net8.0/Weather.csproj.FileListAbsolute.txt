@@ -1,0 +1,265 @@
+D:\holy c\Weather\bin\Debug\net8.0\Weather.exe
+D:\holy c\Weather\bin\Debug\net8.0\Weather.deps.json
+D:\holy c\Weather\bin\Debug\net8.0\Weather.runtimeconfig.json
+D:\holy c\Weather\bin\Debug\net8.0\Weather.dll
+D:\holy c\Weather\bin\Debug\net8.0\Weather.pdb
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Base.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Native.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\holy c\Weather\bin\Debug\net8.0\Avalonia.X11.dll
+D:\holy c\Weather\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\holy c\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\holy c\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\holy c\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\holy c\Weather\bin\Debug\net8.0\SkiaSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\holy c\Weather\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\holy c\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\holy c\Weather\obj\Debug\net8.0\Weather.csproj.AssemblyReference.cache
+D:\holy c\Weather\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\holy c\Weather\obj\Debug\net8.0\Avalonia\resources
+D:\holy c\Weather\obj\Debug\net8.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+D:\holy c\Weather\obj\Debug\net8.0\Weather.AssemblyInfoInputs.cache
+D:\holy c\Weather\obj\Debug\net8.0\Weather.AssemblyInfo.cs
+D:\holy c\Weather\obj\Debug\net8.0\Weather.csproj.CoreCompileInputs.cache
+D:\holy c\Weather\obj\Debug\net8.0\Avalonia\references
+D:\holy c\Weather\obj\Debug\net8.0\Avalonia\original.dll
+D:\holy c\Weather\obj\Debug\net8.0\Avalonia\original.pdb
+D:\holy c\Weather\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\holy c\Weather\obj\Debug\net8.0\refint\Weather.dll
+D:\holy c\Weather\obj\Debug\net8.0\Weather.dll
+D:\holy c\Weather\obj\Debug\net8.0\Weather.pdb
+D:\holy c\Weather\obj\Debug\net8.0\Weather.csproj.Up2Date
+D:\holy c\Weather\obj\Debug\net8.0\Weather.genruntimeconfig.cache
+D:\holy c\Weather\obj\Debug\net8.0\ref\Weather.dll
+D:\holy c\Weather\bin\Debug\net8.0\RestSharp.dll
+D:\holy c\Weather\bin\Debug\net8.0\DynamicData.dll
+D:\holy c\Weather\bin\Debug\net8.0\ReactiveUI.dll
+D:\holy c\Weather\bin\Debug\net8.0\Splat.dll
+D:\holy c\Weather\bin\Debug\net8.0\System.Reactive.dll
+D:\holy c\Weather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Weather.exe
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Weather.deps.json
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Weather.runtimeconfig.json
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Weather.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Weather.pdb
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\DynamicData.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ReactiveUI.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\RestSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\SkiaSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Splat.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\System.Reactive.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\System.Text.Json.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Programming\VisProg\Weather\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.csproj.AssemblyReference.cache
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Avalonia\resources
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.AssemblyInfoInputs.cache
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.AssemblyInfo.cs
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.csproj.CoreCompileInputs.cache
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Avalonia\references
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Avalonia\original.dll
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\refint\Weather.dll
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.dll
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.pdb
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.csproj.CopyComplete
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\Weather.genruntimeconfig.cache
+C:\Programming\VisProg\Weather\obj\Debug\net8.0\ref\Weather.dll
